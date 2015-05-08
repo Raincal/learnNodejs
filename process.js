@@ -24,4 +24,5 @@ process.on('exit',function(){
 
 process.on('SIGINT',function(){
     console.log('Programe has a sigint.');
+    process.exit();
 })

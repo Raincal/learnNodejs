@@ -23,11 +23,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="process.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="process.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/process.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.819063">
-              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process_arg.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/process_arg.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13570274">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -80,6 +92,7 @@
         <option value="$PROJECT_DIR$/process_cwd.js" />
         <option value="$PROJECT_DIR$/subdir/cwd_subdir.js" />
         <option value="$PROJECT_DIR$/process.js" />
+        <option value="$PROJECT_DIR$/process_arg.js" />
       </list>
     </option>
   </component>
@@ -169,10 +182,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Node.js.process.js">
-    <configuration default="false" name="global.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$PROJECT_DIR$/../node" path-to-js-file="global.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.process_arg.js">
     <configuration default="false" name="console.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$PROJECT_DIR$/../node" path-to-js-file="console.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -183,6 +193,9 @@
       <method />
     </configuration>
     <configuration default="false" name="cwd_subdir.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$PROJECT_DIR$/../node" path-to-js-file="cwd_subdir.js" working-dir="$PROJECT_DIR$/subdir">
+      <method />
+    </configuration>
+    <configuration default="false" name="process_arg.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$PROJECT_DIR$/../node" path-to-js-file="process_arg.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -224,19 +237,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.global.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.console.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.process.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.process_cwd.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.cwd_subdir.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.console.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.process.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.process_cwd.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.cwd_subdir.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.process_arg.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.process.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.cwd_subdir.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.process_cwd.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.console.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.global.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.process_arg.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.process.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.cwd_subdir.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.process_cwd.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.console.js" />
       </list>
     </recent_temporary>
   </component>
@@ -368,8 +381,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/process.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.819063">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process_arg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13570274">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>
