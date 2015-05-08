@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79579a96-2717-4ad8-8cf4-92e468b8787a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subdir/cwd_subdir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/process_cwd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/process.js" afterPath="$PROJECT_DIR$/process.js" />
     </list>
     <ignored path="learn-node.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="process.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="process.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/process.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.819063">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -50,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cwd_subdir.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cwd_subdir.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/subdir/cwd_subdir.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18093699">
+            <state vertical-scroll-proportion="0.0">
               <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
@@ -80,9 +77,9 @@
         <option value="$PROJECT_DIR$/hello_world.js" />
         <option value="$PROJECT_DIR$/global.js" />
         <option value="$PROJECT_DIR$/console.js" />
-        <option value="$PROJECT_DIR$/process.js" />
         <option value="$PROJECT_DIR$/process_cwd.js" />
         <option value="$PROJECT_DIR$/subdir/cwd_subdir.js" />
+        <option value="$PROJECT_DIR$/process.js" />
       </list>
     </option>
   </component>
@@ -172,7 +169,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Node.js.cwd_subdir.js">
+  <component name="RunManager" selected="Node.js.process.js">
     <configuration default="false" name="global.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$PROJECT_DIR$/../node" path-to-js-file="global.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -235,9 +232,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.cwd_subdir.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.process_cwd.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.process.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.process.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.cwd_subdir.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.process_cwd.js" />
         <item index="3" class="java.lang.String" itemvalue="Node.js.console.js" />
         <item index="4" class="java.lang.String" itemvalue="Node.js.global.js" />
       </list>
@@ -349,16 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/process.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/process_cwd.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -371,8 +358,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/subdir/cwd_subdir.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18093699">
+        <state vertical-scroll-proportion="0.0">
           <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.819063">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>

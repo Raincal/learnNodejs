@@ -15,3 +15,13 @@ process.stdin.on('readable',function(){
     var data = process.stdin.read();
     console.log(data);
 })
+
+process.on('exit',function(){
+    console.log('Programe will exit!');
+})
+
+//SIGING ->>signal interrupted
+
+process.on('SIGINT',function(){
+    console.log('Programe has a sigint.');
+})
