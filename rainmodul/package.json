@@ -1,0 +1,18 @@
+{
+  "name": "rainmodul",
+  "version": "0.0.1",
+  "description": "A modul for learning perpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "modul"
+  ],
+  "author": "Raincal",
+  "license": "ISC"
+}
