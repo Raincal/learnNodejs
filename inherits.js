@@ -1,23 +1,23 @@
 var util = require('util');
 
-var Base = function(){
+var Base = function () {
     this.name = 'Base';
     this.base = 1990;
 
-    this.sayHello = function(){
+    this.sayHello = function () {
         console.log('Hello ' + this.name);
     };
 };
 
-Base.prototype.showName = function(){
+Base.prototype.showName = function () {
     console.log(this.name);
 };
 
-var Sub = function(){
+var Sub = function () {
     this.name = 'Sub';
 };
 
-util.inherits(Sub,Base);
+util.inherits(Sub, Base);
 
 var objBase = new Base();
 objBase.showName();

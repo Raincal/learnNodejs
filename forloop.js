@@ -1,8 +1,8 @@
 var fs = require('fs');
-var files = ['a.txt','b.txt','c.txt'];
+var files = ['a.txt', 'b.txt', 'c.txt'];
 
-for(var i = 0;i < files.length;i++){
-    fs.readFile(files[i],'utf-8',function(err,contents){
+for (var i = 0; i < files.length; i++) {
+    fs.readFile(files[i], 'utf-8', function (err, contents) {
         console.log(files[i] + ': ' + contents);
     })
 }

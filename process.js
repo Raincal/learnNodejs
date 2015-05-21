@@ -11,18 +11,18 @@ process.stdin.on('data',function(data){
     console.log(data);
 })*/
 
-process.stdin.on('readable',function(){
+process.stdin.on('readable', function () {
     var data = process.stdin.read();
     console.log(data);
 })
 
-process.on('exit',function(){
+process.on('exit', function () {
     console.log('Programe will exit!');
 })
 
 //SIGING ->>signal interrupted
 
-process.on('SIGINT',function(){
+process.on('SIGINT', function () {
     console.log('Programe has a sigint.');
     process.exit();
 })
