@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "词法作用域和变量安全.js",
+  "sourceRoot": "",
+  "sources": [
+    "词法作用域和变量安全.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,KAAA,GAAQ;;EACR,YAAA,GAAe,SAAA;AACb,QAAA;IAAA,KAAA,GAAQ,CAAC;WACT,KAAA,GAAQ;EAFK;;EAGf,KAAA,GAAQ,YAAA,CAAA;AAJR"
+}

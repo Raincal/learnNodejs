@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "函数.js",
+  "sourceRoot": "",
+  "sources": [
+    "函数.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,MAAA,GAAS,SAAC,CAAD;WAAO,CAAA,GAAI;EAAX;;EACT,IAAA,GAAO,SAAC,CAAD;WAAO,MAAA,CAAO,CAAP,CAAA,GAAY;EAAnB;;EAEP,IAAA,GAAO,SAAC,SAAD,EAAY,MAAZ;;MAAY,SAAS;;WAC1B,cAAA,GAAe,SAAf,GAAyB,QAAzB,GAAiC,MAAjC,GAAwC;EADnC;AAHP"
+}

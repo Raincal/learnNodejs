@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "字符串替换, 块级的字符串, 块级的注释.js",
+  "sourceRoot": "",
+  "sources": [
+    "字符串替换, 块级的字符串, 块级的注释.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,MAAA,GAAS;;EACT,KAAA,GAAQ,0BAAA,GAA4B;;EAEpC,QAAA,GAAa,CAAE,EAAA,GAAG,CAAL,CAAA,GAAQ;;EAGrB,QAAA,GAAW;;EAOX,IAAA,GAAO;AAbP"
+}
