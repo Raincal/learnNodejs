@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/coffeescript/变参(splats)....coffee" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coffeescript/字符串替换, 块级的字符串, 块级的注释.coffee" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongo/mongo.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongo/mongo_find.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongo/mongo_insert.js" charset="UTF-8" />
+  </component>
+</project>

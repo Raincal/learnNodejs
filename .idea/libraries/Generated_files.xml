@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/coffeescript/块级的正则表达式.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/存在性操作符.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/函数.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/class, 继承, super.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/对象和数组.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/解构赋值.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/词法作用域和变量安全.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/函数绑定.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/嵌入 JavaScript.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/if, else, unless 和条件赋值.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/变参(splats)....html" />
+        <item url="file://$PROJECT_DIR$/coffeescript/变参(splats)....js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/循环和推导式.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/Switch_When_Else.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/数组的切片和用 range 进行拼接.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/Try_Catch_Finally.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/一切都是表达式.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/Chained Comparisons.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/字符串替换, 块级的字符串, 块级的注释.js" />
+        <item url="file://$PROJECT_DIR$/coffeescript/操作符和 aliase.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/coffeescript/Switch/When/Else.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/Switch/When/Else.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/块级的正则表达式.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/存在性操作符.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/函数.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/class, 继承, super.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/对象和数组.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/解构赋值.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/词法作用域和变量安全.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/函数绑定.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/嵌入 JavaScript.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/if, else, unless 和条件赋值.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/变参(splats)....html" />
+      <root url="file://$PROJECT_DIR$/coffeescript/变参(splats)....js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/循环和推导式.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/Switch_When_Else.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/数组的切片和用 range 进行拼接.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/Try_Catch_Finally.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/一切都是表达式.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/Chained Comparisons.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/字符串替换, 块级的字符串, 块级的注释.js" />
+      <root url="file://$PROJECT_DIR$/coffeescript/操作符和 aliase.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
